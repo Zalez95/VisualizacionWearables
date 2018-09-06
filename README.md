@@ -1,5 +1,11 @@
 # visualizacion-wearables
-Programa de visualización de datos para mi asignatura de Prácticas en Empresa en la Universidad de Valladolid. Los datos que es capaz de leer este programa siguen el siguiente formato CSV separado por `;`:
+Programa de visualización de datos para mi asignatura de Prácticas en Empresa en la Universidad de Valladolid.
+
+## Ejemplo de uso
+![ejemplo_visualizacion_wearables](https://user-images.githubusercontent.com/12982523/45187070-beda8880-b22f-11e8-86c8-19b8aeaf3945.gif)
+
+## Formato de datos
+Los datos que es capaz de leer este programa siguen el siguiente formato CSV separado por `;`:
 
 | Timestamp | dato1    | dato2    | dato3    |
 | --------- | -------- | -------- | -------- |
